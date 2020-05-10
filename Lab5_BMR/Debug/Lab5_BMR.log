@@ -1,0 +1,4 @@
+﻿  bmr.cpp
+C:\Users\binli\OneDrive\Desktop\labs 5 project\Lab5_BMR\bmr.cpp(60,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\binli\OneDrive\Desktop\labs 5 project\Lab5_BMR\bmr.cpp(67,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Lab5_BMR.vcxproj -> C:\Users\binli\OneDrive\Desktop\labs 5 project\Lab5_BMR\Debug\Lab5_BMR.exe
